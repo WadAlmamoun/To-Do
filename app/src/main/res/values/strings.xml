@@ -12,8 +12,8 @@
     <string name="finished">Finished</string>
 
 
-    <string name="facebook_app_id">469076537156044</string>
-    <string name="fb_login_protocol_scheme">fb469076537156044</string>
+    <string name="facebook_app_id">addYourOwnFbId</string>
+    <string name="fb_login_protocol_scheme">addYourOwnFbfbLoginProtocolScheme</string>
     <string name="account">Account</string>
     <string name="sign_in">Sign In</string>
     <string name="logout">Logout</string>
